@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Teixeira Gomes</h1>
-- 🔭 Atualmente estou trabalhando no **meu portfólio**
+<h3 align="center">Estudante de Engenharia de Computação da Poli USP. Apaixonado por aprender mais sobre esse universo da programação</h3>
+
+- 🔭 I'm currently working on **meu portfólio**
 
 - 📫 How to reach me **guilhermetexgomes@gmail.com**
 
