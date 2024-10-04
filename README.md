@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Teixeira Gomes</h1>
-<h3 align="center">Estudante de Engenharia de Computação da Poli USP. Apaixonado por aprender mais sobre esse universo da programação</h3>
+<h3 align="center">Computer Engineering student at University of São Paulo. Passionate about learning more about the programming world</h3>
 
 - 🔭 I'm currently working on **meu portfólio**
 
